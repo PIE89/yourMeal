@@ -1,0 +1,31 @@
+.orange {
+  background-color: #ff7020;
+  color: #fff;
+
+  transition: background-color 0.2s ease-in;
+}
+
+.orange:hover,
+.neutral:hover {
+  background-color: #ffab08;
+  color: #fff;
+}
+.orange:focus-visible,
+.neutral:focus-visible {
+  background-color: #f86310;
+  color: #fff;
+}
+
+.neutral {
+  background-color: #f2f2f3;
+  color: #000;
+}
+
+.border {
+  border-radius: 12px;
+}
+
+.none {
+  background-color: unset;
+  color: unset;
+}

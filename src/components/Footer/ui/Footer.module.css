@@ -1,0 +1,98 @@
+.footer {
+  padding: 46px 0 40px;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1320px;
+  padding: 0 15px;
+}
+
+.footerRow {
+  display: flex;
+  justify-content: space-between;
+}
+
+.footerCopyright {
+  font-size: 12px;
+}
+
+.footerCopyright p + p {
+  margin-top: 4px;
+}
+
+.footerLogo {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  margin-bottom: 54px;
+}
+
+.logoSlogan {
+  width: 210px;
+}
+
+.logoLogo {
+  height: 67px;
+  width: 67px;
+}
+
+.logoSlogan,
+.logoLogo {
+  color: #ff7020;
+
+  transition: color 0.2s ease-in;
+}
+
+.logoSlogan:hover,
+.logoLogo:hover {
+  color: #000000;
+}
+
+.footerWidgetsWrapper {
+  display: flex;
+  gap: 126px;
+}
+
+.footerWidgetOrder h6 {
+  font-size: 24px;
+  margin-bottom: 26px;
+}
+
+.footerWidgetPhone {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.footerWidgetPhone a {
+  color: #000;
+  line-height: 1.3;
+}
+
+.footerWidgetSocial {
+  font-size: 24px;
+}
+
+.socialLinks {
+  margin-top: 22px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.socialLinks img + img {
+  margin-left: 16px;
+}
+
+.TG,
+.VK {
+  color: #ff7020;
+
+  transition: color 0.2s ease-in;
+}
+
+.TG :hover,
+.VK :hover {
+  color: #ffab08;
+}

@@ -1,0 +1,51 @@
+.card {
+  position: relative;
+  width: 300px;
+  border-radius: 18px;
+  background-color: #fff;
+  padding: 12px;
+  bottom: 0;
+
+  transition: bottom 0.2s ease; /* не работает данное свойство */
+}
+
+.card:hover {
+  bottom: 5px;
+}
+
+.cardPhoto {
+  margin-bottom: 16px;
+  border-radius: 12px;
+}
+
+.cardPrice {
+  margin-bottom: 8px;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.cardTitle {
+  margin-bottom: 29px;
+  line-height: 1.3;
+}
+
+.cardWeight {
+  margin-bottom: 8px;
+  color: #b1b1b1;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+.cardButton {
+  padding: 11px 0;
+  width: 100%;
+  border-radius: 12px;
+  background-color: #f2f2f3;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.cardButton:hover {
+  background-color: #ff7020;
+  color: #fff;
+  top: 1px;
+}

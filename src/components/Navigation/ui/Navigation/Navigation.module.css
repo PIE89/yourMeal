@@ -1,0 +1,10 @@
+.navigation {
+  padding: 0 16px 0 43px;
+}
+
+.mealList {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+

@@ -1,0 +1,44 @@
+@import url("./reset.css");
+
+body {
+  font-family: "Nunito", sans-serif;
+  line-height: normal;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1320px;
+  padding: 0 15px;
+}
+
+.main {
+  padding: 40px 0 100px;
+  background-color: #f9f9f9;
+}
+
+.sectionMenu {
+  margin-top: 50px;
+}
+
+.menuWrapper {
+  display: grid;
+  align-items: flex-start;
+  gap: 30px;
+  margin-top: 24px;
+}
+
+.none {
+  display: none;
+}
+
+.error {
+  font-weight: 600;
+  font-size: 40px;
+}
+
+.noProducts {
+  grid-column: span 4;
+  font-size: 40px;
+  font-weight: 800;
+  text-align: center;
+}

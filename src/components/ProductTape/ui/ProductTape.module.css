@@ -1,0 +1,12 @@
+.menuTitle {
+  margin-bottom: 24px;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+.menuCards {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 30px;
+}
