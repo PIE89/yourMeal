@@ -13,10 +13,12 @@ export const basketSlice = createSlice({
   reducers: {
     addItem(state, action) {
       const item = state.basket.find((res) => {
+        console.log("res.product", res.product);
+        console.log("action.payload.product", action.payload.product);
+        console.log(action.payload.product === res.product);
+        console.log(action.payload.id === res.id);
         return (
-          JSON.stringify(res.product) ===
-            JSON.stringify(action.payload.product) &&
-          JSON.stringify(res.id) === JSON.stringify(action.payload.id)
+          res.product === action.payload.product && res.id === action.payload.id
         );
       });
 
