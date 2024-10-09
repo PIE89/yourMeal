@@ -58,7 +58,12 @@ const CartItem = ({ id, img, title, price, weight, product, ingredients }) => {
       className={style.card}
       key={id}
     >
-      <img src={img} alt={title} className={style.cardPhoto} />
+      <img
+        src={`./img/menu/${img}.jpg`}
+        srcSet={`./img/menu/${img}@2x.jpg`}
+        alt={title}
+        className={style.cardPhoto}
+      />
       <p className={style.cardPrice}>{price}₽</p>
       <h6 className={style.cardTitle}>{title}</h6>
       <p className={style.cardWeight}>{weight}г</p>

@@ -73,7 +73,11 @@ const Modal = ({ isOpen, handleClick }) => {
             </div>
 
             <div className={cls.main}>
-              <img src={img} className={cls.burger} />
+              <img
+                src={`./img/menu/${img}.jpg`}
+                srcSet={`./img/menu/${img}@2x.jpg`}
+                className={cls.burger}
+              />
 
               <div className={cls.info}>
                 <span className={cls.description}>{description}</span>

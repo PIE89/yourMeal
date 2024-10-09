@@ -3,7 +3,7 @@
     {
       "id": 1,
       "product": "burgers",
-      "img": "https://downloader.disk.yandex.ru/preview/6c3dc2e3c66b679d566e0f673d98eef918a73adba92561e4771385520b34092b/665e6d46/SrOQenHH-cUkrnjE9aWzfXVIQw_N7GvhmlC9Dt_I_xKNMDnBJL5sUMqJgrZ9WYZT71Qr1qq24-UezMQ8r_xFzA%3D%3D?uid=0&filename=meatBurger%402x.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "img": "burger/meatBurger",
       "title": "Мясная бомба",
       "description": "Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
       "ingredients": [
@@ -19,7 +19,7 @@
     {
       "id": 2,
       "product": "burgers",
-      "img": "https://downloader.disk.yandex.ru/preview/ce83daa229e3cfee85c4888ac941a707845f89b533c96b970e7eacc6e55ac4f9/665e6f45/L9yO8vgMnomqWZP70tIOKovr7-PuSizXnJb5JLCb5l03eeQXdyP9k6y9d2qs8qosHLKCftLmqTfKT1rQ8xdncQ%3D%3D?uid=0&filename=bigBurger%402x.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "img": "burger/bigBurger",
       "title": "Сытный",
       "description": "Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
       "ingredients": [
@@ -35,7 +35,7 @@
     {
       "id": 3,
       "product": "burgers",
-      "img": "https://downloader.disk.yandex.ru/preview/e9abc80bc92b64e2279c084b973b40c2a38cc2b7e0445504974f103b4fdfbef2/665e6eef/SrOQenHH-cUkrnjE9aWzfXVIQw_N7GvhmlC9Dt_I_xKNMDnBJL5sUMqJgrZ9WYZT71Qr1qq24-UezMQ8r_xFzA%3D%3D?uid=0&filename=heavyBurger%402x.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "img": "burger/heavyBurger",
       "title": "Тяжелый удар",
       "description": "Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
       "ingredients": [
@@ -51,7 +51,7 @@
     {
       "id": 4,
       "product": "burgers",
-      "img": "https://downloader.disk.yandex.ru/preview/07aed6e03bffa96470bc2bd8bf4a37e5e75dbb4d8f5475a66ea60e099e0f57b6/665e6ebe/VSMF6iVmdkap8-qU-uypxovr7-PuSizXnJb5JLCb5l2OgWG6OgZE4h6aejnj09grmfPI-imjtlj4HA0vb-HCPw%3D%3D?uid=0&filename=classicBurger%402x.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "img": "burger/classicBurger",
       "title": "Вечная классика",
       "description": "Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
       "ingredients": [
@@ -67,7 +67,7 @@
     {
       "id": 5,
       "product": "burgers",
-      "img": "https://downloader.disk.yandex.ru/preview/5c0ce2d7b34c23136e7df483c674a652096519d92ccc1f45a4ad4bb4799c7450/6661b2e5/RiHvEEKN7cdVZa7cTIu5wIvr7-PuSizXnJb5JLCb5l3Cr1Xc97oqt1MPedAW-SMo4wg_tW8NyNl0L0fDyS7KGg%3D%3D?uid=0&filename=italianBurger%402x.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "img": "burger/italianBurger",
       "title": "Итальянский",
       "description": "Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
       "ingredients": [
@@ -83,7 +83,7 @@
     {
       "id": 6,
       "product": "burgers",
-      "img": "https://downloader.disk.yandex.ru/preview/a4915616e4a32b2210fc527d77d8ec0bc0d9fa3b3fe7107a1025b6ca1a7695b3/6661b345/pMsLlvSsBxLdE0shmHkQHJdOoCPYTFhkdx0UOZr2u91qmSuhgSiUuBMB1gzY7IyB5zwYNJAdMQp3yfwGdQ628Q%3D%3D?uid=0&filename=cheaseBurger%402x.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "img": "burger/bigBurger",
       "title": "Супер сырный",
       "description": "Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
       "ingredients": [
@@ -99,7 +99,7 @@
     {
       "id": 7,
       "product": "burgers",
-      "img": "https://downloader.disk.yandex.ru/preview/6c3dc2e3c66b679d566e0f673d98eef918a73adba92561e4771385520b34092b/665e6d46/SrOQenHH-cUkrnjE9aWzfXVIQw_N7GvhmlC9Dt_I_xKNMDnBJL5sUMqJgrZ9WYZT71Qr1qq24-UezMQ8r_xFzA%3D%3D?uid=0&filename=meatBurger%402x.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "img": "burger/meatBurger",
       "title": "Мясная бомба",
       "description": "Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
       "ingredients": [
@@ -115,7 +115,7 @@
     {
       "id": 8,
       "product": "burgers",
-      "img": "https://downloader.disk.yandex.ru/preview/ce83daa229e3cfee85c4888ac941a707845f89b533c96b970e7eacc6e55ac4f9/665e6f45/L9yO8vgMnomqWZP70tIOKovr7-PuSizXnJb5JLCb5l03eeQXdyP9k6y9d2qs8qosHLKCftLmqTfKT1rQ8xdncQ%3D%3D?uid=0&filename=bigBurger%402x.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "img": "burger/bigBurger",
       "title": "Сытный",
       "description": "Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
       "ingredients": [
@@ -131,7 +131,7 @@
     {
       "id": 9,
       "product": "burgers",
-      "img": "https://downloader.disk.yandex.ru/preview/e9abc80bc92b64e2279c084b973b40c2a38cc2b7e0445504974f103b4fdfbef2/665e6eef/SrOQenHH-cUkrnjE9aWzfXVIQw_N7GvhmlC9Dt_I_xKNMDnBJL5sUMqJgrZ9WYZT71Qr1qq24-UezMQ8r_xFzA%3D%3D?uid=0&filename=heavyBurger%402x.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "img": "burger/heavyBurger",
       "title": "Тяжелый удар",
       "description": "Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
       "ingredients": [
@@ -147,7 +147,7 @@
     {
       "id": 10,
       "product": "burgers",
-      "img": "https://downloader.disk.yandex.ru/preview/07aed6e03bffa96470bc2bd8bf4a37e5e75dbb4d8f5475a66ea60e099e0f57b6/665e6ebe/VSMF6iVmdkap8-qU-uypxovr7-PuSizXnJb5JLCb5l2OgWG6OgZE4h6aejnj09grmfPI-imjtlj4HA0vb-HCPw%3D%3D?uid=0&filename=classicBurger%402x.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "img": "burger/classicBurger",
       "title": "Вечная классика",
       "description": "Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
       "ingredients": [
@@ -163,7 +163,7 @@
     {
       "id": 11,
       "product": "burgers",
-      "img": "https://downloader.disk.yandex.ru/preview/5c0ce2d7b34c23136e7df483c674a652096519d92ccc1f45a4ad4bb4799c7450/6661b2e5/RiHvEEKN7cdVZa7cTIu5wIvr7-PuSizXnJb5JLCb5l3Cr1Xc97oqt1MPedAW-SMo4wg_tW8NyNl0L0fDyS7KGg%3D%3D?uid=0&filename=italianBurger%402x.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "img": "burger/italianBurger",
       "title": "Итальянский",
       "description": "Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
       "ingredients": [
@@ -179,7 +179,7 @@
     {
       "id": 12,
       "product": "burgers",
-      "img": "https://downloader.disk.yandex.ru/preview/a4915616e4a32b2210fc527d77d8ec0bc0d9fa3b3fe7107a1025b6ca1a7695b3/6661b345/pMsLlvSsBxLdE0shmHkQHJdOoCPYTFhkdx0UOZr2u91qmSuhgSiUuBMB1gzY7IyB5zwYNJAdMQp3yfwGdQ628Q%3D%3D?uid=0&filename=cheaseBurger%402x.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "img": "burger/cheaseBurger",
       "title": "Супер сырный",
       "description": "Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
       "ingredients": [
@@ -197,48 +197,30 @@
     {
       "id": 1,
       "product": "snacks",
-      "img": "https://downloader.disk.yandex.ru/preview/c2997dbf63eafcf763e9466844a998975186322dcdafa1ff3fb297457f6a3b0e/6666d88e/3qyhrwv_oU7utXsDq5h3czRpnd7bO5U5RUW_UMipYxNjaQvHIZMtaRsrQlukSYRlCMJZB_57k9iaoIRQsuFrEg%3D%3D?uid=0&filename=free%402x.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "img": "snacks/free",
       "title": "Картошка Фри",
-      "description": "Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
-      "ingredients": [
-        "Пшеничная булочка",
-        "Котлета из говядины",
-        "Красный лук",
-        "Листья салата",
-        "Соус горчичный"
-      ],
+      "description": "Хрустящий картофель с любимым соусом.",
+      "ingredients": ["Картофель", "Соус на выбор"],
       "price": 250,
       "weight": 150
     },
     {
       "id": 2,
       "product": "snacks",
-      "img": "https://downloader.disk.yandex.ru/preview/5732ecb69f34e86fbcc995d12e2b0fb95305c0c5ef1650f6ec43bda6d3c6f8ff/6666d8c9/YSvKnP3g6Bjbv1Q0BHmN6g-x3Z28NcwTKCfYo90yjJOzRDxmHpUWqz8qWItbQySloQ4VLiYcGXUcvnmBkTwwig%3D%3D?uid=0&filename=nachos%402x.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "img": "snacks/nachos",
       "title": "Начос",
-      "description": "Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
-      "ingredients": [
-        "Пшеничная булочка",
-        "Котлета из говядины",
-        "Красный лук",
-        "Листья салата",
-        "Соус горчичный"
-      ],
+      "description": "Пшеничные начос с острым соусом сальса",
+      "ingredients": ["Начос", "Сальса"],
       "price": 200,
       "weight": 50
     },
     {
       "id": 3,
       "product": "snacks",
-      "img": "https://downloader.disk.yandex.ru/preview/04e8138431de14fc9221827a011ec8dfa43bb96f86f2ab139bed0c61e5535861/6666d8f9/Kja2VhcTSVdEGX7opDzwZw-x3Z28NcwTKCfYo90yjJODdKoQAgDoSVwWn2h85r7b7ZOkVTMRp-VkxbhjNwDvVg%3D%3D?uid=0&filename=onion%402x.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "img": "snacks/onion",
       "title": "Луковые кольца",
-      "description": "Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
-      "ingredients": [
-        "Пшеничная булочка",
-        "Котлета из говядины",
-        "Красный лук",
-        "Листья салата",
-        "Соус горчичный"
-      ],
+      "description": "Хрустящие луковые колечки как идеальная закуска к пиву",
+      "ingredients": ["Луковые кольца", "Соус на выбор"],
       "price": 300,
       "weight": 100
     }
@@ -247,15 +229,14 @@
     {
       "id": 1,
       "product": "hotdogs",
-      "img": "https://downloader.disk.yandex.ru/preview/b3c97dc394d6c3ffa3be631aaca749ac7214fed6a31b910fbf0a3cce7fb56893/66609791/Y1DNZzRDLVCwNEWCOT8U7MpLSnZ7zJfsn1TtM5xxfv1MD9WYC4GSwyr0wo1Mo4ZsZ3ljzB5LJ5xuwg9swJO8RQ%3D%3D?uid=0&filename=classicHD%402x.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "img": "hot-dog/classicHD",
       "title": "Классический",
-      "description": "Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
+      "description": "Классический Хот-Дог с горчицей и кетчупом.",
       "ingredients": [
         "Пшеничная булочка",
-        "Котлета из говядины",
-        "Красный лук",
-        "Листья салата",
-        "Соус горчичный"
+        "Сосиска из говядины",
+        "Кетчуп",
+        "Горчица"
       ],
       "price": 300,
       "weight": 200
@@ -263,15 +244,14 @@
     {
       "id": 2,
       "product": "hotdogs",
-      "img": "https://downloader.disk.yandex.ru/preview/6372f4e99866ea65950bfba0ce025ec5be774d549a9d745422be51eedd75c608/66609ca4/Pst_fr-Thl_ev3a46-BI5Yvr7-PuSizXnJb5JLCb5l2PKR5BmGVRx3oXo8mlzjPie2a5DTJrw_NHlR0ULWkUng%3D%3D?uid=0&filename=homeHD%402x.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "img": "hot-dog/homeHD",
       "title": "Домашний",
-      "description": "Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
+      "description": "Хот-Дог с нежной домашней булочкой и добавлением зеленого лука.",
       "ingredients": [
-        "Пшеничная булочка",
-        "Котлета из говядины",
-        "Красный лук",
-        "Листья салата",
-        "Соус горчичный"
+        "Домашняя булочка",
+        "Сосиска свинная",
+        "Зеленный лук",
+        "Горчица"
       ],
       "price": 250,
       "weight": 150
@@ -279,15 +259,15 @@
     {
       "id": 3,
       "product": "hotdogs",
-      "img": "https://downloader.disk.yandex.ru/preview/d91a1b7c98edcd74a9e30f434cee956d38fa3c5887939070a766f19c42cf2b00/66609cba/MsDK6LaOX69QlmM7KZJ5kYvr7-PuSizXnJb5JLCb5l0AKSgKOdZbJfelBEE07rWIORvlFGVG6hLoNtKWpu5q1A%3D%3D?uid=0&filename=spicyHD%402x.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "img": "hot-dog/spicyHD",
       "title": "Острый",
-      "description": "Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
+      "description": "Хот-Дог отстрый, с добавлением халапеньо.",
       "ingredients": [
         "Пшеничная булочка",
         "Котлета из говядины",
         "Красный лук",
-        "Листья салата",
-        "Соус горчичный"
+        "Кетчуп",
+        "Халапеньо"
       ],
       "price": 250,
       "weight": 150
@@ -297,15 +277,14 @@
     {
       "id": 1,
       "product": "combo",
-      "img": "https://downloader.disk.yandex.ru/preview/75e50c904667ff527282e7babe40aa7a5dd4731db2ad8524778d507b0922f399/66609cf2/Pu-WhJ9WdwBSsy6ci1vPD52GV9AWLtMK83xng84LdaPyhda9bc7RVV-uHJ5cUBLc-H-I07MHmgvLAOtrTZk6Wg%3D%3D?uid=0&filename=combo.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "img": "combo/combo",
       "title": "Комбо-Бомба",
-      "description": "Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
+      "description": "Два бургера с картофелем фри и соусом кетчуп",
       "ingredients": [
         "Пшеничная булочка",
         "Котлета из говядины",
-        "Красный лук",
-        "Листья салата",
-        "Соус горчичный"
+        "Картофель",
+        "Кетчуп"
       ],
       "price": 490,
       "weight": 400
@@ -315,15 +294,15 @@
     {
       "id": 1,
       "product": "kebab",
-      "img": "https://downloader.disk.yandex.ru/preview/75e50c904667ff527282e7babe40aa7a5dd4731db2ad8524778d507b0922f399/66609cf2/Pu-WhJ9WdwBSsy6ci1vPD52GV9AWLtMK83xng84LdaPyhda9bc7RVV-uHJ5cUBLc-H-I07MHmgvLAOtrTZk6Wg%3D%3D?uid=0&filename=combo.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "img": "kebab/kebab_classic",
       "title": "Шаверма Классическая",
-      "description": "Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
+      "description": "Классическая шаверма для истенных ценителей.",
       "ingredients": [
-        "Пшеничная булочка",
-        "Котлета из говядины",
+        "Лаваш",
+        "Курица",
         "Красный лук",
         "Листья салата",
-        "Соус горчичный"
+        "Соус сметанный"
       ],
       "price": 350,
       "weight": 300
@@ -331,15 +310,16 @@
     {
       "id": 2,
       "product": "kebab",
-      "img": "https://downloader.disk.yandex.ru/preview/08e72951dfa339ba7207a8d177b1be2ddfcf26c41adf6dfae761247ddc24c82f/66609d91/UX3j9XeNv34UAcFav3dqJG3HXEKcbEfukUO8dbazbMB_-5Tj9hNs-kcXqYVnHcgA0doi2S-hcAoaUyV3Vd16Cg%3D%3D?uid=0&filename=kebab_spicy.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "img": "kebab/kebab_spicy",
       "title": "Шаверма Остренькая",
-      "description": "Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
+      "description": "Шаверма острая для любителе по горячее.",
       "ingredients": [
-        "Пшеничная булочка",
-        "Котлета из говядины",
+        "Лаваш",
+        "Курица",
         "Красный лук",
         "Листья салата",
-        "Соус горчичный"
+        "Соус сметанный",
+        "Халапеньо"
       ],
       "price": 350,
       "weight": 300
@@ -349,48 +329,30 @@
     {
       "id": 1,
       "product": "pizza",
-      "img": "https://downloader.disk.yandex.ru/preview/bb7f953f102f9f1ab595b886e580694d70cbd71993ba95b431dba8e833274834/66609dce/8gk01w5a4maij2NpCVmiyEcI_gB5Cesx-hHopr8rshDlZe9wQzlHkpyKaZIUYEWy31eloo1mYJB9ZPBQiRs1PA%3D%3D?uid=0&filename=pizzaItalia.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "img": "pizza/pizzaItalia",
       "title": "Пицца Итальянская",
-      "description": "Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
-      "ingredients": [
-        "Пшеничная булочка",
-        "Котлета из говядины",
-        "Красный лук",
-        "Листья салата",
-        "Соус горчичный"
-      ],
+      "description": "Супер нежная пицца с добавлением страчателла и шпината.",
+      "ingredients": ["Тесто", "Томатная паста", "Страчателла", "Шпинат"],
       "price": 600,
       "weight": 500
     },
     {
       "id": 2,
       "product": "pizza",
-      "img": "https://downloader.disk.yandex.ru/preview/7d8e17367ccb8fa6b92a5aa50768b5ea9ea0c95c76f9e11b56cfd651495963b6/66609e3e/jpqEA0ujq5uL7VXczPPrOm6CbSCK6FQyZs47yqZDcxkMS5XNANBQ2RWM0WhPPu7JyfoLI9UE9e9x1nLqh7WsoA%3D%3D?uid=0&filename=PizzaBavaria.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "img": "pizza/pizzaBavaria",
       "title": "Пицца Баварская",
-      "description": "Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
-      "ingredients": [
-        "Пшеничная булочка",
-        "Котлета из говядины",
-        "Красный лук",
-        "Листья салата",
-        "Соус горчичный"
-      ],
+      "description": "Мясная пицца для сытного перекуса.",
+      "ingredients": ["Тесто", "Томатная паста", "Курица", "Салями", "Маслины"],
       "price": 600,
       "weight": 500
     },
     {
       "id": 3,
       "product": "pizza",
-      "img": "https://downloader.disk.yandex.ru/preview/1e7139b0510ef8f25a22fd5600ebeba3b1eb1bf51f85367c8db8afafbec35af4/66609e49/5q_oEuLFLH-CaaMn7LXdkW6CbSCK6FQyZs47yqZDcxmznDdVA3ZAj1xYNgsKAQU4ztwNyKcKvY6FHGhGrDrkig%3D%3D?uid=0&filename=pizzaMargarita.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "img": "pizza/pizzaMargarita",
       "title": "Пицца Маргарита",
-      "description": "Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
-      "ingredients": [
-        "Пшеничная булочка",
-        "Котлета из говядины",
-        "Красный лук",
-        "Листья салата",
-        "Соус горчичный"
-      ],
+      "description": "Нежная и не менее вкусная пицца для любителей классики.",
+      "ingredients": ["Тесто", "Томатная паста", "Маслины", "Моцарелла"],
       "price": 600,
       "weight": 500
     }
@@ -400,48 +362,30 @@
     {
       "id": 1,
       "product": "dessert",
-      "img": "https://downloader.disk.yandex.ru/preview/bb983cf5ab5dc92aebe8fe058ccb3ad06325ae696c10744b4f9555c78a8add8f/66609ea3/uLcYIxl3flAmqCppJZb9gE6R7rd-jyL-CMgVvMxzFm-bFVB5zN2zcWvO7gII6pmoMnueRuF5c6CYFClgEzkYOg%3D%3D?uid=0&filename=cake.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "img": "dessert/cake",
       "title": "Шоколадный торт",
-      "description": "Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
-      "ingredients": [
-        "Пшеничная булочка",
-        "Котлета из говядины",
-        "Красный лук",
-        "Листья салата",
-        "Соус горчичный"
-      ],
+      "description": "Шоколадный торт с добавлением голубики.",
+      "ingredients": ["Шоколадный торт", "Голубика"],
       "price": 250,
       "weight": 200
     },
     {
       "id": 2,
       "product": "dessert",
-      "img": "https://downloader.disk.yandex.ru/preview/fa48922a112ecb6e8f9645067ea5a374d7a4b608cafc0a6f526a3aa10ecf7e74/66609ecb/86e78datyK2a1Bz44hDCE_StVVs976siWLqTU11KbhESGFv76BQvpF__GHTO5wfNDQUUiY5HjsgS38xyNdiISQ%3D%3D?uid=0&filename=donut.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "img": "dessert/donut",
       "title": "Пончик",
-      "description": "Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
-      "ingredients": [
-        "Пшеничная булочка",
-        "Котлета из говядины",
-        "Красный лук",
-        "Листья салата",
-        "Соус горчичный"
-      ],
+      "description": "Классический пончик с малиновой начинкой.",
+      "ingredients": ["Пончик", "Малиновый джем"],
       "price": 250,
       "weight": 100
     },
     {
       "id": 3,
       "product": "dessert",
-      "img": "https://downloader.disk.yandex.ru/preview/de4ab6dada4aa2a80d03df87b3fc4fcbc9c3ba4a741d1479a2cb561287a7a015/66609ed7/IkqrTK6Yx28mWLs-RWENJPStVVs976siWLqTU11KbhHF08mwraYw7n3730RHabX-gjiO1Tw9OqdhQ7vGkV6idA%3D%3D?uid=0&filename=cheescake.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "img": "dessert/cheescake",
       "title": "ЧизКейк",
-      "description": "Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
-      "ingredients": [
-        "Пшеничная булочка",
-        "Котлета из говядины",
-        "Красный лук",
-        "Листья салата",
-        "Соус горчичный"
-      ],
+      "description": "Невероятно нежный ЧизКей с добавлением черной смородины.",
+      "ingredients": ["ЧизКейк", "Черная смородина"],
       "price": 250,
       "weight": 200
     }
@@ -450,48 +394,30 @@
     {
       "id": 1,
       "product": "sauce",
-      "img": "https://downloader.disk.yandex.ru/preview/cd6dde7e27de1e30c6e05375602c8f2a18ff7f7172c89b0637611afa8856fdce/66609f3b/7473iH5Q3zPKkkOZSJRTp4hfhEaMFkcAoLsdAkTNMoUG9s8ipYlrLMJPeGoemppx0s30SMVp2het3XHqq3ER6A%3D%3D?uid=0&filename=mustard.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "img": "sauce/mustard",
       "title": "Горчица",
-      "description": "Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
-      "ingredients": [
-        "Пшеничная булочка",
-        "Котлета из говядины",
-        "Красный лук",
-        "Листья салата",
-        "Соус горчичный"
-      ],
+      "description": "Горчица.",
+      "ingredients": ["Соус горчичный"],
       "price": 100,
       "weight": 50
     },
     {
       "id": 2,
       "product": "sauce",
-      "img": "https://downloader.disk.yandex.ru/preview/3a80a40b54b1166a238f153de22e7ecbd80ab00066a1331f6ef85a843f568562/66609f1f/QQwvzgvf3RJq5G_DwsKUJYhfhEaMFkcAoLsdAkTNMoV5wMlQe8LKO-qxP8yz9Y_mPosB4eEYatKjFeDqeF9qPQ%3D%3D?uid=0&filename=mayonnaise.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "img": "sauce/mayonnaise",
       "title": "Майонез",
-      "description": "Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
-      "ingredients": [
-        "Пшеничная булочка",
-        "Котлета из говядины",
-        "Красный лук",
-        "Листья салата",
-        "Соус горчичный"
-      ],
+      "description": "Майонез.",
+      "ingredients": ["Майонез"],
       "price": 100,
       "weight": 50
     },
     {
       "id": 3,
       "product": "sauce",
-      "img": "https://downloader.disk.yandex.ru/preview/de4ab6dada4aa2a80d03df87b3fc4fcbc9c3ba4a741d1479a2cb561287a7a015/66609ed7/IkqrTK6Yx28mWLs-RWENJPStVVs976siWLqTU11KbhHF08mwraYw7n3730RHabX-gjiO1Tw9OqdhQ7vGkV6idA%3D%3D?uid=0&filename=cheescake.jpeg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048",
+      "img": "sauce/ketchup",
       "title": "Кетчуп",
-      "description": "Супер мясное наслаждение! Большая рубленая котлета из свежего говяжего мяса покорит вас своей сочностью, а хрустящие листья салата добавят свежести.",
-      "ingredients": [
-        "Пшеничная булочка",
-        "Котлета из говядины",
-        "Красный лук",
-        "Листья салата",
-        "Соус горчичный"
-      ],
+      "description": "Кетчуп.",
+      "ingredients": ["Кетчуп"],
       "price": 100,
       "weight": 50
     }

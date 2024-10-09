@@ -33,7 +33,11 @@ const Basket = () => {
   const itemsList = () =>
     basket.map((item, i) => (
       <li key={i}>
-        <img src={item.img} className={style.basketPositionsImg} />
+        <img
+          src={`./img/menu/${item.img}.jeg`}
+          srcSet={`./img/menu/${item.img}@2x.jpg`}
+          className={style.basketPositionsImg}
+        />
         <div className={style.basketPositionsDescription}>
           <h6 className={style.positionsDescriptionTitle}>{item.title}</h6>
           <p className={style.positionsDescriptionWeight}>{item.weight}г</p>
